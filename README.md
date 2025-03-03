@@ -1,1 +1,1 @@
-# projetoaplicado2_grupo3
+# Projeto Aplicado 2 - Grupo 3
