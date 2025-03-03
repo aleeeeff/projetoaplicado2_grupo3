@@ -1,7 +1,7 @@
 # Projeto Aplicado 2 - Grupo 3
 
 ## Documentação do Projeto
-https://docs.google.com/document/d/18QSVbOvZNzAcO0Sr9rng5B_99vNfAEt8I5k2YdmVfx0/edit?usp=sharing
+[**Exploração de Dados Analíticos de Vendas entre 2017 a 2024**](https://docs.google.com/document/d/18QSVbOvZNzAcO0Sr9rng5B_99vNfAEt8I5k2YdmVfx0/edit?usp=sharing) 
 
 ## Objetivo do Projeto
 O objetivo do projeto é investigar o padrão de vendas de produtos de supermercado, analisando a influência de diferentes variáveis, como grupo de produto, vendedor, equipe de vendas e canal de distribuição. Utilizando técnicas de Análise Estatística Preditiva e Aprendizado de Máquina, será possível identificar tendências e fatores que impactam no volume de vendas e no valor unitário dos produtos.
